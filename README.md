@@ -54,11 +54,11 @@ Once installed, open the app and sign in using your college credentials. Explore
 
 ## Contact
 
-For any inquiries or support, please contact us [Viswanath V](mailto:viswanath10006@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+For any inquiries or support, please contact rasheedahamed1414@gmail.com
 ## Authors
 
-- [Viswanath V](https://github.com/Viswa9494)
-- Rasheed Ahamed M
+- M Rasheed Ahamed
+- Viswanath V
 
 ## Screenshots
 
